@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personal</string>
+    <string name="txtnombre">Ingres su nombre</string>
+    <string name="txtapellido">Ingrese su apellido</string>
+    <string name="txtdni">ingrese su dni</string>
+    <string name="lvdata">data</string>
+</resources>
